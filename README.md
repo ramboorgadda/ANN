@@ -1,2 +1,2 @@
 # ANN
-ANN Example
+ANN Example with Classification and Regression solution.
